@@ -19,6 +19,6 @@ a 90:10 train-test split.
 
 Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; fastai
 
-Paper available: Journal under review
+* Paper available: Journal under review *
 
-Codes: Will be made available shortly
+* Codes: Will be made available shortly * 
