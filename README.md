@@ -1,6 +1,4 @@
 # Transformer-based-CNN-Approach-for-RS-Scene-Classification
-Submission to EAAI Journal
-
 
 Feature extraction in remote sensing is a challenging yet crucial operation for scene
 classification because of cloud cover and overlapping edges present in the data. We present an
@@ -18,7 +16,7 @@ a 90:10 train-test split.
 
 Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; fastai
 
-### *Paper available: Journal under review, submitted to EAAI
+### *Paper available: Journal under review
 ### *Codes: Will be made available shortly 
 ### Authors: Arrun Sivasubramanian(1), Prashanth VR(1), THeivaprakasham Hari(1), Dr. Sowmya V(1), Dr. Gopalakrishnan EA(1), Dr. Vinaykumar Ravi(2)
 ### Affiliation: (1) CEN, Amrita School of Engienering, Coimbatore, India; (2) Center for Artificial Intelligence, Prince Mohammed Bin Fahad University, Saudi Arabia
