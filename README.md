@@ -17,7 +17,7 @@ a 90:10 train-test split.
 Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; fastai
 
 ### *Paper available: Journal under review
-### *Codes: Will be made available shortly 
+### *Codes: Will be made available post-acceptance 
 ### Authors: Arrun Sivasubramanian(1), Prashanth VR(1), Theivaprakasham Hari(1), Dr. Sowmya V(1), Dr. Gopalakrishnan EA(2), Dr. Vinaykumar Ravi(3)
 ### Affiliation: 
 (1) CEN, Amrita School of Engienering, Coimbatore, India; 
