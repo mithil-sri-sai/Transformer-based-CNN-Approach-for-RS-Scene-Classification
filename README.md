@@ -6,9 +6,9 @@ Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; f
 
 ### *Paper available: Journal under review
 ### *Codes: - Refer to the TrainerNotebookActual.ipynb notebook for training from scratch
-###         - If you have the pretrained weights, and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
+###         - If you have the pretrained weights and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
 ### *Pretrained Weights of best models of each dataset: https://drive.google.com/drive/folders/1p8xTJwaXVKKYn5u8tA8_Y49ThYmxV18S?usp=drive_link
-### {Weights of other models can be available on request - Mail to arrun.sivasubramanian@gmail.com} 
+### {Weights of other models can be made available on request - Mail to arrun.sivasubramanian@gmail.com} 
 ### Authors: Arrun Sivasubramanian(1), Prashanth VR(1), Theivaprakasham Hari(1), Dr. Sowmya V(1), Dr. Gopalakrishnan EA(2), Dr. Vinaykumar Ravi(3)
 ### Affiliation: 
 (1) CEN, Amrita School of Engineering, Coimbatore, India; 
