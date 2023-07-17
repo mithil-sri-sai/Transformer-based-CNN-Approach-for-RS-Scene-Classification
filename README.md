@@ -5,7 +5,8 @@ Feature extraction in remote sensing is a challenging yet crucial operation for 
 Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; fastai
 
 ### *Paper available: Journal under review
-### *Codes: Refer to the TrainerNotebookActual file for training from scratch
+### *Codes: - Refer to the TrainerNotebookActual.ipynb notebook for training from scratch
+###         - If you have the pretrained weights, and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
 ### *Pretrained Weights of best models of each dataset: https://drive.google.com/drive/folders/1p8xTJwaXVKKYn5u8tA8_Y49ThYmxV18S?usp=drive_link
 ### {Weights of other models can be available on request - Mail to arrun.sivasubramanian@gmail.com} 
 ### Authors: Arrun Sivasubramanian(1), Prashanth VR(1), Theivaprakasham Hari(1), Dr. Sowmya V(1), Dr. Gopalakrishnan EA(2), Dr. Vinaykumar Ravi(3)
