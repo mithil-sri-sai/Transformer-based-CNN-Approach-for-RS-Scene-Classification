@@ -6,11 +6,38 @@ Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; f
 
 ### *Paper available: Journal under review
 ### *Codes: - Refer to the TrainerNotebookActual.ipynb notebook for training from scratch
-###         - If you have the pretrained weights and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
+###         - If you have the pre-trained weights and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
 ### *Pretrained Weights of best models of each dataset: https://drive.google.com/drive/folders/1p8xTJwaXVKKYn5u8tA8_Y49ThYmxV18S?usp=drive_link
 ### {Weights of other models can be made available on request - Mail to arrun.sivasubramanian@gmail.com} 
+
+Experimental Setup: 
+
+The pre-trained weights for transfer learning were acquired for PyTorch from the timm module. Finding the optimal220 learning rate for faster convergence was done using the lr_finder method. Since our work considers a fixed batch size of 8, this method finds the best learning rate by splitting the data into batches and assigning different learning rates to each batch. Then, the learning rate of the batch with a small loss is considered the optimal learning rate. The results were computed using 4 Nvidia RTX5000 GPUs, and the fastai distributed framework helps in parallel computation. The setup has a CPU RAM of 128 GB, GPU RAM of 64 GB, and a 28-core processor. For comparison, we use accuracy (the ratio between correctly classified instances to the total instances present) and the F1 score (the harmonic226 mean between precision and recall) as the evaluation metric since we need to minimize the false positive and the false pessimistic predictions in the confusion matrix. For saving the models, we prioritize minimizing the validation loss. 
+
+Proposed Methodology Block Diagram:
+
+<img width="754" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/fd788b7f-ee04-49c8-89db-ba96ecb03f2c">
+
+
+Results:
+
+<img width="818" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/92161145-7fd6-4643-9e53-d9862168692a">
+
+<img width="818" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/c1352cb8-8799-42a6-bfb2-6ef178bb8d74">
+
+<img width="820" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/9a73b9be-a030-485f-b8a6-18ca7e39d9fc">
+
+<img width="818" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/52430ec9-f826-484d-b6c2-49a9a956ca0f">
+
+<img width="818" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/d7a42687-be29-42ad-a8fc-16820dc47432">
+
+
+Comparison with the state-of-the-art models in literature:
+
+<img width="826" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/4d57abc4-3fcb-4362-b662-86debf61a330">
+
 ### Authors: Arrun Sivasubramanian(1), Prashanth VR(1), Theivaprakasham Hari(1), Dr. Sowmya V(1), Dr. Gopalakrishnan EA(2), Dr. Vinaykumar Ravi(3)
 ### Affiliation: 
-(1) CEN, Amrita School of Engineering, Coimbatore, India; 
-(2) Amrita School of Computing, Bangalore, Amrita Vishwa Vidyapeetham, India;
-(3) Center for Artificial Intelligence, Prince Mohammed Bin Fahad University, Saudi Arabia
+### (1) CEN, Amrita School of Engineering, Coimbatore, India; 
+### (2) Amrita School of Computing, Bangalore, Amrita Vishwa Vidyapeetham, India;
+### (3) Center for Artificial Intelligence, Prince Mohammed Bin Fahad University, Saudi Arabia.
