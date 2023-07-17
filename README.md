@@ -8,6 +8,12 @@ Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; f
 ### *Codes: - Refer to the TrainerNotebookActual.ipynb notebook for training from scratch
 ###         - If you have the pre-trained weights and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
 ### *Pretrained Weights of best models of each dataset: https://drive.google.com/drive/folders/1p8xTJwaXVKKYn5u8tA8_Y49ThYmxV18S?usp=drive_link
+### Links to dowmload the open-source datasets:
+###    1) UC Merced Land Use    : http://weegee.vision.ucmerced.edu/datasets/landuse.html
+###    2) WHU-RS19              : https://captain-whu.github.io/BED4RS/
+###    3) Optimal-31            : https://drive.google.com/file/d/1Fk9a0DW8UyyQsR8dP2Qdakmr69NVBhq9/view
+###    4) RSI-CB256             : https://github.com/lehaifeng/RSI-CB
+###    5) MLRSNet               : https://data.mendeley.com/datasets/7j9bv9vwsx/2
 ### {Weights of other models can be made available on request - Mail to arrun.sivasubramanian@gmail.com} 
 
 Experimental Setup: 
