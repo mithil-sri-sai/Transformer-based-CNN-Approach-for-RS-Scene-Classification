@@ -36,7 +36,7 @@ Comparison with the state-of-the-art models in literature:
 
 <img width="826" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/4d57abc4-3fcb-4362-b662-86debf61a330">
 
-### Authors: Arrun Sivasubramanian(1), Prashanth VR(1), Theivaprakasham Hari(1), Dr. Sowmya V(1), Dr. Gopalakrishnan EA(2), Dr. Vinaykumar Ravi(3)
+### Authors: Arrun Sivasubramanian(1), Prashanth VR(1), Theivaprakasham Hari(1), Dr. Sowmya V(1), Dr. Gopalakrishnan EA(2), Dr. Vinayakumar Ravi(3)
 ### Affiliation: 
 ### (1) CEN, Amrita School of Engineering, Coimbatore, India; 
 ### (2) Amrita School of Computing, Bangalore, Amrita Vishwa Vidyapeetham, India;
