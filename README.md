@@ -27,7 +27,8 @@ Results:
 
 <img width="820" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/9a73b9be-a030-485f-b8a6-18ca7e39d9fc">
 
-<img width="818" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/52430ec9-f826-484d-b6c2-49a9a956ca0f">
+<img width="834" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/1ad897af-4c14-49c3-93bf-0d39e8921909">
+
 
 <img width="818" alt="image" src="https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/d7a42687-be29-42ad-a8fc-16820dc47432">
 
