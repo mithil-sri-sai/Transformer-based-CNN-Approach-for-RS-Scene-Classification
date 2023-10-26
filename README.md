@@ -21,6 +21,7 @@ The pre-trained weights for transfer learning were acquired for PyTorch from the
 
 Proposed Methodology Block Diagram:
 
+![Figure14_Methodology](https://github.com/argon125/Transformer-based-CNN-Approach-for-RS-Scene-Classification/assets/64146402/7e24f4f0-c7fa-4f9e-afe1-62b85d8b0de1)
 
 
 
