@@ -4,9 +4,8 @@ Feature extraction in remote sensing is a challenging yet crucial operation for 
 
 Keywords: Convolutional Neural Networks; Remote Sensing; Scene Classification; fastai
 
-### *Paper available: Under review in Remote Sensing Applications: Society and Environment
-### *Codes: - Refer to the TrainerNotebookActual.ipynb notebook for training from scratch (will be made available after manuscript acceptance)
-###         - If you have the pre-trained weights and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
+### Codes: - Refer to the TrainerNotebookActual.ipynb notebook for training from scratch
+###        - If you have the pre-trained weights and wish to make predictions, refer to TrainerNotebookPredictions.ipynb
 ### Links to download the open-source datasets:
 ###    1) UC Merced Land Use    : http://weegee.vision.ucmerced.edu/datasets/landuse.html
 ###    2) WHU-RS19              : https://captain-whu.github.io/BED4RS/
